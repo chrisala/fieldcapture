@@ -118,7 +118,7 @@ dependencies {
     implementation "org.apache.httpcomponents:httpcore:4.4.13"
     implementation "org.apache.httpcomponents:httpclient:4.5.7"
     implementation "org.apache.httpcomponents:httpmime:4.2.1"
-    implementation "org.apache.pdfbox:pdfbox:2.0.4"
+    implementation "org.apache.pdfbox:pdfbox:2.0.37"
     implementation 'org.grails.plugins:excel-export:2.1'
     implementation 'org.grails.plugins:excel-import:3.0.2'
 
